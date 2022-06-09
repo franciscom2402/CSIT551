@@ -31,42 +31,42 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="200px"
-            android:text="GRADE 1: "
+            android:text="COURSE 1: "
             android:textSize="40px" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="350px"
-            android:text="GRADE 2: "
+            android:text="COURSE 2: "
             android:textSize="40px" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="500px"
-            android:text="GRADE 3: "
+            android:text="COURSE 3: "
             android:textSize="40px" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="650px"
-            android:text="GRADE 4: "
+            android:text="COURSE 4: "
             android:textSize="40px" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="800px"
-            android:text="GRADE 5: "
+            android:text="COURSE 5: "
             android:textSize="40px" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="950px"
-            android:text="GPA"
+            android:text="GPA RESULT"
             android:textSize="40px" />
 
         <EditText

@@ -80,7 +80,7 @@ public class MainActivity extends AppCompatActivity {
                     e4.setText("");
                     e5.setText("");
                     t.setText("");
-                    b.setText("Compute GPA");
+                    b.setText("Calculate GPA");
                     t.setBackgroundColor(Color.WHITE);
                     count++;
                 }
