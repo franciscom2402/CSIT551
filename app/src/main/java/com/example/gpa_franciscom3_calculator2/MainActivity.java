@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
                 float g1, g2, g3, g4, g5;
                 if (count % 2 == 0) {
                     if (e1.getText().toString().equals("") || e2.getText().toString().equals("") || e3.getText().toString().equals("") || e4.getText().toString().equals("") || e5.getText().toString().equals("")) {
-                        t.setText("Enter grades in all fields");
+                        t.setText("Please complete all fields");
                     }
                     else {
                         g1 = Float.parseFloat(e1.getText().toString());
